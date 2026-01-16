@@ -52,10 +52,5 @@ I believe the best projects start with great conversations. Whether you have a c
 <div align="center">
   
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/u_known1111)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/YOUR_NUMBER_HERE)
 
 </div>
-
-**Contact Information:**
-- 📱 **Telegram**: [@u_known1111](https://t.me/u_known1111) - *Fastest response time*
-- 💬 **WhatsApp**: [Contact via WhatsApp](https://wa.me/YOUR_NUMBER_HERE) - *Available for direct messaging*
