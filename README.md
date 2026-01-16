@@ -12,10 +12,7 @@
 ## 👨‍💻 About Me
 
 **Passionate Bot Developer | Trusted Automation Expert | Your Partner in Digital Innovation**
-
 Hello! I'm a dedicated bot developer with an unwavering passion for creating intelligent automation solutions that transform businesses and enhance user experiences. What started as a curiosity has evolved into a deep commitment to building reliable, scalable bots that solve real-world problems.
-
-I don't just write code—I craft solutions. Whether you're a startup looking to automate workflows or an established business needing sophisticated bot integrations, I bring the same level of dedication, attention to detail, and passion to every project.
 
 ## Services Offered 🛠️
 - **Custom Bot Development**: Tailored bots designed to fit your specific use case
@@ -31,7 +28,6 @@ I don't just write code—I craft solutions. Whether you're a startup looking to
 - **Sniper Bot**: Lightning-fast market entry for high-value opportunities
 - **Monitoring Bot**: Advanced market analysis, price tracking, and alert systems
 - **Risk Management**: Sophisticated position sizing and portfolio management
-- **Multi-account Support**: Manage multiple Polymarket accounts simultaneously
 
 ### 💼 Other Notable Projects
 - **Kalshi Trading Bots**: Copy trading, arbitrage, and monitoring solutions
@@ -39,9 +35,6 @@ I don't just write code—I craft solutions. Whether you're a startup looking to
 - **Pumpfun/PumpSwap Trading Bots**: Token launch sniping and trading automation
 - **Solana Trading Bots**: Comprehensive trading solutions with Telegram integration
 - **Discord Community Bots**: Advanced moderation and management features
-- **AI-Powered Chatbots**: Intelligent conversation and automation systems
-- **Multi-chain Trading Solutions**: Cross-platform trading automation
-- **Custom API Integrations**: Seamless third-party service connections
 
 ## 💬 Let's Connect & Build Trust
 
