@@ -12,7 +12,7 @@
 ## 👨‍💻 About Me
 
 **Passionate Developer | Trusted Automation Expert | Your Partner in Digital Innovation**
-Hello! I'm a dedicated bot developer with an unwavering passion for creating intelligent automation solutions that transform businesses and enhance user experiences. What started as a curiosity has evolved into a deep commitment to building reliable, scalable bots that solve real-world problems.
+Hello! I'm a dedicated web3 developer with an unwavering passion for creating intelligent automation solutions that transform businesses and enhance user experiences. What started as a curiosity has evolved into a deep commitment to building reliable, scalable bots that solve real-world problems.
 
 ## Services Offered 🛠️
 - **Custom Bot Development**: Tailored bots designed to fit your specific use case
